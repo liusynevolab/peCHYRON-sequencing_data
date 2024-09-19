@@ -1,0 +1,4 @@
+PER44-9	agaggag	tttcaag
+PER44-10	TCCGAT	cgtcat
+PER44-11	ccttgg	catcga
+PER44-12	agttct	tggaat

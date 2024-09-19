@@ -1,0 +1,14 @@
+Afull	aactacg	tttcaa
+Bfull	tgcgac	tttcaa
+Cfull	gaaactt	tttcaa
+Dfull	gactgaa	tttcaa
+Efull	actgaca	tttcaa
+Ffull	tgatccg	tttcaa
+Gfull	aggcatg	tttcaa
+Hfull	agatagg	tttcaa
+Ifull	tatctca	tttcaa
+Jfull	tctcatc	tttcaa
+Kfull	agaggag	tttcaa
+Lfull	gttatgc	tttcaa
+Mfull	gtcgcat	tttcaa
+Nfull	tttcaac	tttcaa

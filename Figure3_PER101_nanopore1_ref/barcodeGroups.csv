@@ -1,0 +1,12 @@
+,,barcode_types,
+tag,barcodeGroup,fwd,rvs
+oosite3,PER101-1AR,Barcode1,Barcode1
+oosite3,PER101-1BL1,Barcode2,Barcode1
+oosite3,PER101-2AR,Barcode3,Barcode1
+oosite3,PER101-2CR,Barcode4,Barcode1
+oosite3,PER101-2DR,Barcode13,Barcode1
+oosite3,PER102-1-N1NN-9-15,Barcode1,Barcode2
+oosite3,PER102-1-N1DD-9-15,Barcode2,Barcode2
+oosite3,PER102-1-D1DD-9-15,Barcode3,Barcode2
+oosite3,PER102-1-D1II-9-15,Barcode4,Barcode2
+oosite3,PER102-1-I1II-9-15,Barcode13,Barcode2
