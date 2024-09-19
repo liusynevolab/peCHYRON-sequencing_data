@@ -1,0 +1,3 @@
+PER11-11	ctaatcc
+PER11-12	ctaatcc
+PER11-13	ctaatcc

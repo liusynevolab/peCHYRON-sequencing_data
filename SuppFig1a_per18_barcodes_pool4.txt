@@ -1,0 +1,16 @@
+49	actgac	ctaatcc
+50	tgatccg	ctaatcc
+51	aggcatg	ctaatcc
+52	agatagg	ctaatcc
+53	aactacg	ctaatcc
+54	tctcatc	ctaatcc
+55	agaggag	ctaatcc
+56	actgac	agtgga
+57	tgatccg	agtgga
+58	aggcatg	agtgga
+59	agatagg	agtgga
+60	aactacg	agtgga
+61	tctcatc	agtgga
+62	agaggag	agtgga
+63	actgac	tcgtgc
+64	tgatccg	tcgtgc

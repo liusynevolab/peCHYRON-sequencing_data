@@ -1,0 +1,10 @@
+PER11-1	actgac	ctaatcc
+PER11-2	tgatccg	ctaatcc
+PER11-3	aggcatg	ctaatcc
+PER11-4	agatagg	ctaatcc
+PER11-5	aactacg	ctaatcc
+PER11-6	actgac	agtgga
+PER11-7	tgatccg	agtgga
+PER11-8	aggcatg	agtgga
+PER11-9	agatagg	agtgga
+PER11-10	aactacg	agtgga

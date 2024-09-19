@@ -1,0 +1,8 @@
+PER17-gen1	aactacg	gttatgc
+PER17-gen2	tgcgac	gtcgca
+PER17-gen3	gaaact	gtcgca
+PER17-gen4	gactga	gtcgca
+PER17mnp1	cctagtc	agctgga
+PER17mnp2	tagctca	tcgctgg
+PER17mnp3	gtctcag	ctagctc
+PER17mnp4	agagagt	gataact

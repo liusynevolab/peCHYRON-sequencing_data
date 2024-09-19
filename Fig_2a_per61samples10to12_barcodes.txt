@@ -1,0 +1,3 @@
+PER61-10	TGATCCG	ctaatcc
+PER61-11	AGGCATG	agtgga
+PER61-12	AGATAGG	tcgtgc

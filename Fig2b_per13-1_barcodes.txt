@@ -1,0 +1,16 @@
+PER12-1	actgac	ctaatcc
+PER12-2	tgatccg	ctaatcc
+PER12-3	aggcatg	ctaatcc
+PER12-4	agatagg	ctaatcc
+PER12-5	aactacg	ctaatcc
+PER12-6	tctcatc	ctaatcc
+PER12-7	agaggag	ctaatcc
+PER12-8	actgac	agtgga
+PER12-9	tgatccg	agtgga
+PER12-10	aggcatg	agtgga
+PER12-11	agatagg	agtgga
+PER12-12	aactacg	agtgga
+PER12-13	tctcatc	agtgga
+PER12-14	agaggag	agtgga
+PER12-15	actgac	tcgtgc
+PER12-16	tgatccg	tcgtgc

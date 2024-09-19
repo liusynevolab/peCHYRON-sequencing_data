@@ -1,0 +1,8 @@
+41	aactacg	gttatgc						
+42	tgcgac	gttatgc						
+43	actgac	gttatgc						
+44	tgatccg	gttatgc						
+45	aggcatg	gttatgc						
+46	agatagg	gttatgc						
+47	tctcatc	gttatgc						
+48	agaggag	gttatgc
